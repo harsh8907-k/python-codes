@@ -1,0 +1,6 @@
+a=(1,2,56,45)
+print(type(a))
+no=a.index(56)
+print(no)
+print(len(a))
+print(a[2:4])
