@@ -9,5 +9,6 @@ elif(a>55):
     print("you got D grade")
 elif(a>45):
     print("you got E grade")
-elif(a<35):
+elif(a<=35):
     print("you are fail,try again next year")                
+        
