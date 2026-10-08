@@ -2,7 +2,7 @@ python=int(input("enter the marks:----------"))
 java=int(input("enter the marks:---------"))
 ml=int(input("enter the marks:--------"))
 avg=(python+java+ml/3)
-print(avg)
+print(avg8
 if(python<35 or java<35 or ml<35):
     print("you failed in one of the subject")
 elif(avg>90):
